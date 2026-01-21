@@ -1,1 +1,2 @@
 # Identification of Key Physicochemical Characteristics Which Influence Epithelial-to-Mesenchymal Transition of Lung Cells after Exposure to Engineered and Natural Stone Dusts via a Hybrid Machine Learning Approach
+A hybrid feature selection and regression framework is used to identify dust properties associated with EMT marker (E-cadherin, Vimentin, and α-SMA) responses in lung epithelial cells using interpretable machine learning. 
